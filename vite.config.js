@@ -18,7 +18,8 @@ export default defineConfig({
   ],
 
   esbuild: {
-    jsxInject: `import { Fragment, h } from 'preact'`
+    jsxInject: `import h from 'jsx-dom-factory'`,
+    jsxFactory: 'h',
   },
 
   build: {
