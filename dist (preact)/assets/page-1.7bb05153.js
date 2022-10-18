@@ -1,1 +1,0 @@
-import{P as t,h as e,H as a,p as n,B as o}from"./Button.2a54198e.js";const l=e(n,null,e(a,null),e("main",{class:"px-6 text-center flex flex-col gap-2 items-center"},e("p",{class:"text-slate-900"},"You are on a different page now!"),e(o,{href:"../"},"Go back")));t(l,document.body);
