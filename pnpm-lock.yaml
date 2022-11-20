@@ -3,12 +3,8 @@ lockfileVersion: 5.4
 specifiers:
   '@unocss/preset-wind': ^0.45.29
   '@unocss/reset': ^0.45.29
-  jsx-dom-factory: ^1.2.0
   unocss: ^0.45.29
   vite: ^3.1.0
-
-dependencies:
-  jsx-dom-factory: 1.2.0
 
 devDependencies:
   '@unocss/preset-wind': 0.45.29
@@ -732,12 +728,6 @@ packages:
     hasBin: true
     dev: true
 
-  /jsx-dom-factory/1.2.0:
-    resolution: {integrity: sha512-1ogz1hJepEJURK5uGTaJp2TuOM0dC3IMptt9376d3Us2ZpeASf6Ant+FDjDS1HPf2jgc1ojClA4k6PJH4mei3A==}
-    dependencies:
-      underscore: 1.13.6
-    dev: false
-
   /kolorist/1.6.0:
     resolution: {integrity: sha512-dLkz37Ab97HWMx9KTes3Tbi3D1ln9fCAy2zr2YVExJasDRPGRaKcoE4fycWNtnCAJfjFqe0cnY+f8KT2JePEXQ==}
     dev: true
@@ -999,10 +989,6 @@ packages:
       defu: 6.1.0
       jiti: 1.16.0
     dev: true
-
-  /underscore/1.13.6:
-    resolution: {integrity: sha512-+A5Sja4HP1M08MaXya7p5LvjuM7K6q/2EaC0+iovj/wOcMsTzMvDFbasi/oSapiwOlt252IqsKqPjCl7huKS0A==}
-    dev: false
 
   /undici/5.11.0:
     resolution: {integrity: sha512-oWjWJHzFet0Ow4YZBkyiJwiK5vWqEYoH7BINzJAJOLedZ++JpAlCbUktW2GQ2DS2FpKmxD/JMtWUUWl1BtghGw==}
